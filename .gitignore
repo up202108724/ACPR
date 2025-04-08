@@ -3,6 +3,4 @@ id_rsa_inesctec.pub
 images
 cropped
 cropped2
-checkpointsdcgan
-checkpointswgan
-report
+checkpoint*
